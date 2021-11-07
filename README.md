@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical)
 
 <a href="https://github.com/ltfafei/FofaSpider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=FofaSpider" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=FofaSpider" />
 </a>
 <a href="https://github.com/ltfafei/DomainSpiderSE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=DomainSpiderSE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=DomainSpiderSE" />
 </a>
 <a href="https://github.com/ltfafei/ZBG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ZBG" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=ZBG" />
 </a>
 <a href="https://github.com/ltfafei/my_POC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=my_POC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=my_POC" />
 </a>
