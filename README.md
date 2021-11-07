@@ -18,14 +18,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - Keep learning, keep loving, just do it!
 
-<tr>
-    <th>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical)
-    </th>
-    <th>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </th>
-</tr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
          
 <a href="https://github.com/ltfafei/FofaSpider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=FofaSpider" />
