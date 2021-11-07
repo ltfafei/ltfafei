@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=FofaSpider" />
 </a>
 <a href="https://github.com/ltfafei/DomainSpiderSE">
-  <img align="center" height="150" card_width=250 src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=DomainSpiderSE" />
+  <img align="center" height="150" width=250 src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=DomainSpiderSE" />
 </a>
 <a href="https://github.com/ltfafei/ZBG">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=ZBG" />
