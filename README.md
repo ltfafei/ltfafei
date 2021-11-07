@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - Keep learning, keep loving, just do it!
 
-<a style="max-width: 100%";>
+<a style="max-width: 100%;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical)
 </a>
 <a style="max-width: 100%;">
