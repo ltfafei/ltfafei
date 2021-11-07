@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 - Keep learning, keep loving, just do it!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical&line_hight=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=250&card_height=150)](https://github.com/anuraghazra/github-readme-stats)
 
          
 <a href="https://github.com/ltfafei/FofaSpider">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=FofaSpider" />
 </a>
 <a href="https://github.com/ltfafei/DomainSpiderSE">
-  <img align="center" height="150" width=250 src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=DomainSpiderSE" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=DomainSpiderSE" />
 </a>
 <a href="https://github.com/ltfafei/ZBG">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=ZBG" />
