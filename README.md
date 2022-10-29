@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=my_POC" />
 </a>
 <a href="https://github.com/ltfafei/Simple_Calc_Go">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=Simple_Calc_Go" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=Simple_Calc_Go" />
 </a>
