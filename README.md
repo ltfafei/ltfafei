@@ -43,5 +43,5 @@ Here are some ideas to get you started:
   <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=Sort_Algorithm_Go" />
 </a>
 <a href="https://github.com/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215">
-  <img align="center" height="120" width="200" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=HuaWei_Route_HG532_RCE_CVE-2017-17215" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=HuaWei_Route_HG532_RCE_CVE-2017-17215" />
 </a>
