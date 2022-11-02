@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ltfafei/Simple_Calc_Go">
   <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=Simple_Calc_Go" />
 </a>
+<a href="https://github.com/ltfafei/Sort_Algorithm_Go">
+  <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=Sort_Algorithm_Go" />
+</a>
