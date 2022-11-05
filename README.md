@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/43526141/200100371-65e50c35-7e0a-4e31-a326-acf89155e503.png)
 
+- CVE编号：CVE-2021-43857
+链接：https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-43857
+CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical&line_hight=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfafei&layout=compact&card_width=250&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
