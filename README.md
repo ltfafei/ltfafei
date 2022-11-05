@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - Keep learning, keep loving, just do it!
 
-- 🌱 CNVD ID：afei00123
+- 🌱 公众号：网络运维渗透
+![image](https://user-images.githubusercontent.com/43526141/200101193-02c5c368-2096-4d2a-9822-4ccbd9b353b0.png)
+
+
+- CNVD ID：afei00123
 - 水过一些CNVD（通用型）：CNVD-2021-30867、CNVD-2021-57769、CNVD-2021-59682、CNVD-2021-67278、CNVD-2021-68717、CNVD-2021-84309、CNVD-2021-88625、CNVD-2021-88624、CNVD-2021-88622、CNVD-2021-88621、CNVD-2021-89110、CNVD-2021-89109、CNVD-2021-89108、CNVD-2021-89107、CNVD-2021-88171、CNVD-2021-89281、CNVD-2021-89267、CNVD-2021-89266
 - CNVD证书：
 
