@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - Keep learning, keep loving, just do it!
 
-- 🌱 水过一些CNVD（通用型）：CNVD-2021-30867、CNVD-2021-57769、CNVD-2021-59682、CNVD-2021-67278、CNVD-2021-68717、CNVD-2021-84309、CNVD-2021-88625、CNVD-2021-88624、CNVD-2021-88622、CNVD-2021-88621、CNVD-2021-89110、CNVD-2021-89109、CNVD-2021-89108、CNVD-2021-89107、CNVD-2021-88171、CNVD-2021-89281、CNVD-2021-89267、CNVD-2021-89266
+- 🌱 CNVD ID：afei00123
+- 水过一些CNVD（通用型）：CNVD-2021-30867、CNVD-2021-57769、CNVD-2021-59682、CNVD-2021-67278、CNVD-2021-68717、CNVD-2021-84309、CNVD-2021-88625、CNVD-2021-88624、CNVD-2021-88622、CNVD-2021-88621、CNVD-2021-89110、CNVD-2021-89109、CNVD-2021-89108、CNVD-2021-89107、CNVD-2021-88171、CNVD-2021-89281、CNVD-2021-89267、CNVD-2021-89266
+- CNVD证书：
+
+![image](https://user-images.githubusercontent.com/43526141/200100371-65e50c35-7e0a-4e31-a326-acf89155e503.png)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical&line_hight=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfafei&layout=compact&card_width=250&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
