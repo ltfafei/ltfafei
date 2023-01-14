@@ -75,3 +75,6 @@ CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 <a href="https://github.com/ltfafei/HuaWei_Route_HG532_RCE_CVE-2017-17215">
   <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=HuaWei_Route_HG532_RCE_CVE-2017-17215" />
 </a>
+<a href="https://github.com/ltfafei/ChatManageSystem_IPC">
+  <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=ChatManageSystem_IPC" />
+</a>
