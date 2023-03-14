@@ -47,6 +47,9 @@ CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 - 补天SRC：
 ![image](https://user-images.githubusercontent.com/43526141/224869836-4d9f96e5-2ea3-42a8-9742-beb670831ec8.png)
 
+- Allsec SRC
+![image](https://user-images.githubusercontent.com/43526141/224873971-6935a7bf-794f-4c9a-aff5-ab3e3a83aca1.png)
+
 - Goby：
 
 ![image](https://user-images.githubusercontent.com/43526141/224870808-5eb98c9b-fb2e-4e50-8a13-0b3662e0018f.png)
