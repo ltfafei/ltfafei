@@ -52,8 +52,8 @@ CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 
 - Goby：
 
-![image](https://user-images.githubusercontent.com/43526141/224870808-5eb98c9b-fb2e-4e50-8a13-0b3662e0018f.png)
-
+![image](https://user-images.githubusercontent.com/43526141/229049653-2a0a6fe0-1065-4a54-8153-3d7be090fcaf.png)
+Goby停收EXP，暂告一段落~
 
 - 百度SRC排行
 ![image](https://user-images.githubusercontent.com/43526141/201040530-01603ffc-dc0b-4446-a383-48686f63d1f9.png)
