@@ -61,6 +61,9 @@ Goby停收EXP，暂告一段落~
 
 好久没有挖了。
 
+- 360 EXP提交平台
+![image](https://user-images.githubusercontent.com/43526141/234159780-ee7b4335-0596-403b-8d29-97c2423bf48b.png)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical&line_hight=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfafei&layout=compact&card_width=250&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
