@@ -63,6 +63,15 @@ Goby停收EXP，暂告一段落~
 
 好久没有挖了。
 
+- 度小满SRC：
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/dffb07de-c8c1-47dd-a4f4-a5427d862d66)
+
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/ef4992b0-4b49-4fc0-a604-c1e1d69e2990)
+
+欢迎大家加入战队：爱国小白帽
+对了，新人别忘记填邀请码哦
+度小满SRC邀请码：f364606ff0416508
+
 - 360 EXP提交平台
 
 ![image](https://user-images.githubusercontent.com/43526141/234159780-ee7b4335-0596-403b-8d29-97c2423bf48b.png)
@@ -96,3 +105,4 @@ Goby停收EXP，暂告一段落~
 <a href="https://github.com/ltfafei/ChatManageSystem_IPC">
   <img align="center" height="122" src="https://github-readme-stats.vercel.app/api/pin/?username=ltfafei&repo=ChatManageSystem_IPC" />
 </a>
+
