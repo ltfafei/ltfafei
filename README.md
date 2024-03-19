@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - Keep learning, keep loving, just do it!
 
-- 🌱 公众号：网络运维渗透
-
-![image](https://user-images.githubusercontent.com/43526141/200101193-02c5c368-2096-4d2a-9822-4ccbd9b353b0.png)
-
 - 🌱 Blog：https://afei00123.blog.csdn.net/
 
 ![image](https://user-images.githubusercontent.com/43526141/222331751-7dc2caac-5043-4793-9504-907f3cfe6862.png)
