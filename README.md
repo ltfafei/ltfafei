@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 
 - 🌱 Blog：https://afei00123.blog.csdn.net/
 
-![image](https://user-images.githubusercontent.com/43526141/222331751-7dc2caac-5043-4793-9504-907f3cfe6862.png)
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/e8154c09-585e-4613-a079-5b455b450a32)
+
 
 - CNVD ID：afei00123
 - 水过一些CNVD（通用型）：CNVD-2021-30867、CNVD-2021-57769、CNVD-2021-59682、CNVD-2021-67278、CNVD-2021-68717、CNVD-2021-84309、CNVD-2021-88625、CNVD-2021-88624、CNVD-2021-88622、CNVD-2021-88621、CNVD-2021-89110、CNVD-2021-89109、CNVD-2021-89108、CNVD-2021-89107、CNVD-2021-88171、CNVD-2021-89281、CNVD-2021-89267、CNVD-2021-89266
-- CNVD证书：
+- N张 CNVD证书：
 
-![image](https://user-images.githubusercontent.com/43526141/222331575-bf337679-d2a2-4084-a364-75dadc84b371.png)
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/f6205874-06d8-46fb-b759-7a8693b25174)
+
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/eefb145b-9888-4d9c-8d6f-4ef41ae26db1)
 
 
 - CVE编号：CVE-2021-43857
@@ -41,7 +44,7 @@ CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 呀，掉到第八名了。
 
 - 补天SRC：
-![00ef0d3a92300976dacbdab48d75642](https://github.com/ltfafei/ltfafei/assets/43526141/f498dc56-5e51-4de7-8ee1-8d4e72ae1188)
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/e423e213-09d9-420d-b480-1f38d5661053)
 
 
 - Allsec SRC
@@ -70,8 +73,7 @@ Goby停收EXP，暂告一段落~
 
 - 360 EXP提交平台
 
-![image](https://user-images.githubusercontent.com/43526141/234159780-ee7b4335-0596-403b-8d29-97c2423bf48b.png)
-
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/96ab4b0f-3e64-43e1-8dd1-fbb35a0b0f61)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltfafei&show_icons=true&theme=radical&line_hight=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltfafei&layout=compact&card_width=250&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
