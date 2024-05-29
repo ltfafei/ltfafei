@@ -46,6 +46,12 @@ CVE审核太慢了，大概历经4个月才通过。知道怎么交就行。
 - 补天SRC：
 ![image](https://github.com/ltfafei/ltfafei/assets/43526141/e423e213-09d9-420d-b480-1f38d5661053)
 
+- 微步在线SRR：
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/604c57fe-8ef3-4832-8043-e597eb079280)
+
+![image](https://github.com/ltfafei/ltfafei/assets/43526141/6baacfd9-2deb-4be9-99f4-20925b67829e)
+
+详情：https://x.threatbook.com/v5/article?threatInfoID=98139
 
 - Allsec SRC
 ![image](https://user-images.githubusercontent.com/43526141/224873971-6935a7bf-794f-4c9a-aff5-ab3e3a83aca1.png)
